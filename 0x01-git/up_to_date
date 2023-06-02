@@ -1,1 +1,3 @@
- git merge master
+ 
+giy fetch origin
+git merge master/master
