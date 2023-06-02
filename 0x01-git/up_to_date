@@ -1,3 +1,1 @@
- 
-giy fetch origin
-git merge master/master
+git pull
